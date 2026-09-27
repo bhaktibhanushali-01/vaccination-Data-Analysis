@@ -1,0 +1,246 @@
+CODE,COUNTRY_NAME,WHO_REGION
+ABW,Aruba,AMRO
+AFG,Afghanistan,EMRO
+AFR,African Region,
+AGO,Angola,AFRO
+AIA,Anguilla,AMRO
+ALB,Albania,EURO
+AMR,Region of the Americas,
+AND,Andorra,EURO
+ARE,United Arab Emirates,EMRO
+ARG,Argentina,AMRO
+ARM,Armenia,EURO
+ASM,American Samoa,
+ATG,Antigua and Barbuda,AMRO
+AUS,Australia,WPRO
+AUT,Austria,EURO
+AZE,Azerbaijan,EURO
+BDI,Burundi,AFRO
+BEL,Belgium,EURO
+BEN,Benin,AFRO
+BFA,Burkina Faso,AFRO
+BGD,Bangladesh,SEARO
+BGR,Bulgaria,EURO
+BHR,Bahrain,EMRO
+BHS,Bahamas,AMRO
+BIH,Bosnia and Herzegovina,EURO
+BLR,Belarus,EURO
+BLZ,Belize,AMRO
+BMU,Bermuda,AMRO
+BOL,Bolivia (Plurinational State of),AMRO
+BRA,Brazil,AMRO
+BRB,Barbados,AMRO
+BRN,Brunei Darussalam,WPRO
+BTN,Bhutan,SEARO
+BWA,Botswana,AFRO
+CAF,Central African Republic,AFRO
+CAN,Canada,AMRO
+CHE,Switzerland,EURO
+CHL,Chile,AMRO
+CHN,China,WPRO
+CIV,Côte d'Ivoire,AFRO
+CMR,Cameroon,AFRO
+COD,Democratic Republic of the Congo,AFRO
+COG,Congo,AFRO
+COK,Cook Islands,WPRO
+COL,Colombia,AMRO
+COM,Comoros,AFRO
+CPV,Cabo Verde,AFRO
+CRI,Costa Rica,AMRO
+CUB,Cuba,AMRO
+CUW,Curaçao,AMRO
+CYM,Cayman Islands,AMRO
+CYP,Cyprus,EURO
+CZE,Czechia,EURO
+DEU,Germany,EURO
+DEVELOPED_ECONOMY,Developed economy,
+DEVELOPING,Developing,
+DJI,Djibouti,EMRO
+DMA,Dominica,AMRO
+DNK,Denmark,EURO
+DOM,Dominican Republic,AMRO
+DZA,Algeria,AFRO
+ECONOMY_IN_TRANSITION,Economy in transition,
+ECU,Ecuador,AMRO
+EGY,Egypt,EMRO
+EMR,Eastern Mediterranean Region,
+ERI,Eritrea,AFRO
+ESP,Spain,EURO
+EST,Estonia,EURO
+ETH,Ethiopia,AFRO
+EUR,European Region,
+FIN,Finland,EURO
+FJI,Fiji,WPRO
+FRA,France,EURO
+FSM,Micronesia (Federated States of),WPRO
+GAB,Gabon,AFRO
+GAVI_PHASE5_NO,Gavi 5.0 no,
+GAVI_PHASE5_YES,Gavi 5.0 yes,
+GBR,United Kingdom of Great Britain and Northern Ireland,EURO
+GEO,Georgia,EURO
+GHA,Ghana,AFRO
+GIN,Guinea,AFRO
+GLOBAL,Global,
+GMB,Gambia,AFRO
+GNB,Guinea-Bissau,AFRO
+GNQ,Equatorial Guinea,AFRO
+GRC,Greece,EURO
+GRD,Grenada,AMRO
+GTM,Guatemala,AMRO
+GUM,Guam,WPRO
+GUY,Guyana,AMRO
+HKG,"China, Hong Kong SAR",WPRO
+HND,Honduras,AMRO
+HRV,Croatia,EURO
+HTI,Haiti,AMRO
+HUN,Hungary,EURO
+IDN,Indonesia,SEARO
+IND,India,SEARO
+IRL,Ireland,EURO
+IRN,Iran (Islamic Republic of),EMRO
+IRQ,Iraq,EMRO
+ISL,Iceland,EURO
+ISR,Israel,EURO
+ITA,Italy,EURO
+JAM,Jamaica,AMRO
+JOR,Jordan,EMRO
+JPN,Japan,WPRO
+KAZ,Kazakhstan,EURO
+KEN,Kenya,AFRO
+KGZ,Kyrgyzstan,EURO
+KHM,Cambodia,WPRO
+KIR,Kiribati,WPRO
+KNA,Saint Kitts and Nevis,AMRO
+KOR,Republic of Korea,WPRO
+KWT,Kuwait,EMRO
+LAO,Lao People's Democratic Republic,WPRO
+LBN,Lebanon,EMRO
+LBR,Liberia,AFRO
+LBY,Libya,EMRO
+LCA,Saint Lucia,AMRO
+LEAST_DEVELOPED,Least developed,
+LKA,Sri Lanka,SEARO
+LSO,Lesotho,AFRO
+LTU,Lithuania,EURO
+LUX,Luxembourg,EURO
+LVA,Latvia,EURO
+MAC,"China, Macao SAR",WPRO
+MAR,Morocco,EMRO
+MCO,Monaco,EURO
+MDA,Republic of Moldova,EURO
+MDG,Madagascar,AFRO
+MDV,Maldives,SEARO
+MEX,Mexico,AMRO
+MHL,Marshall Islands,WPRO
+MKD,North Macedonia,EURO
+MLI,Mali,AFRO
+MLT,Malta,EURO
+MMR,Myanmar,SEARO
+MNE,Montenegro,EURO
+MNG,Mongolia,WPRO
+MNP,Northern Mariana Islands,WPRO
+MOZ,Mozambique,AFRO
+MRT,Mauritania,AFRO
+MSR,Montserrat,AMRO
+MUS,Mauritius,AFRO
+MWI,Malawi,AFRO
+MYS,Malaysia,WPRO
+NAM,Namibia,AFRO
+NCL,New Caledonia,WPRO
+NER,Niger,AFRO
+NGA,Nigeria,AFRO
+NIC,Nicaragua,AMRO
+NIU,Niue,WPRO
+NLD,Netherlands (Kingdom of the),EURO
+NOR,Norway,EURO
+NPL,Nepal,SEARO
+NRU,Nauru,WPRO
+NZL,New Zealand,WPRO
+OMN,Oman,EMRO
+PAK,Pakistan,EMRO
+PAN,Panama,AMRO
+PER,Peru,AMRO
+PHL,Philippines,WPRO
+PLW,Palau,WPRO
+PNG,Papua New Guinea,WPRO
+POL,Poland,EURO
+PRK,Democratic People's Republic of Korea,SEARO
+PRT,Portugal,EURO
+PRY,Paraguay,AMRO
+PSE,"occupied Palestinian territory, including east Jerusalem",EMRO
+PYF,French Polynesia,WPRO
+QAT,Qatar,EMRO
+ROU,Romania,EURO
+RUS,Russian Federation,EURO
+RWA,Rwanda,AFRO
+SAU,Saudi Arabia,EMRO
+SDN,Sudan,EMRO
+SEAR,South-East Asia Region,
+SEN,Senegal,AFRO
+SGP,Singapore,WPRO
+SLB,Solomon Islands,WPRO
+SLE,Sierra Leone,AFRO
+SLV,El Salvador,AMRO
+SMR,San Marino,EURO
+SOM,Somalia,EMRO
+SRB,Serbia,EURO
+SSD,South Sudan,AFRO
+STP,Sao Tome and Principe,AFRO
+SUR,Suriname,AMRO
+SVK,Slovakia,EURO
+SVN,Slovenia,EURO
+SWE,Sweden,EURO
+SWZ,Eswatini,AFRO
+SXM,Sint Maarten (Dutch part),AMRO
+SYC,Seychelles,AFRO
+SYR,Syrian Arab Republic,EMRO
+TCA,Turks and Caicos Islands,AMRO
+TCD,Chad,AFRO
+TGO,Togo,AFRO
+THA,Thailand,SEARO
+TJK,Tajikistan,EURO
+TKL,Tokelau,WPRO
+TKM,Turkmenistan,EURO
+TLS,Timor-Leste,SEARO
+TON,Tonga,WPRO
+TTO,Trinidad and Tobago,AMRO
+TUN,Tunisia,EMRO
+TUR,Türkiye,EURO
+TUV,Tuvalu,WPRO
+TZA,United Republic of Tanzania,AFRO
+UGA,Uganda,AFRO
+UKR,Ukraine,EURO
+UNICEF_REGIONS_CEE_CIS,Central and Eastern Europe and the Commonwealth of Independent States,
+UNICEF_REGIONS_DEV,Developed countries,
+UNICEF_REGIONS_EAPRO,East Asia and the Pacific,
+UNICEF_REGIONS_ESARO,Eastern and Southern Africa,
+UNICEF_REGIONS_LACRO,Latin America and the Caribbean,
+UNICEF_REGIONS_MENA,Middle East and North Africa,
+UNICEF_REGIONS_ROSA,South Asia,
+UNICEF_REGIONS_WCARO,West and Central Africa,
+URY,Uruguay,AMRO
+USA,United States of America,AMRO
+UZB,Uzbekistan,EURO
+VCT,Saint Vincent and the Grenadines,AMRO
+VEN,Venezuela (Bolivarian Republic of),AMRO
+VGB,British Virgin Islands,AMRO
+VNM,Viet Nam,WPRO
+VUT,Vanuatu,WPRO
+WB_LONG_HIC_NONOECD,High income: non oecd,
+WB_LONG_HIC_OECD,High income: oecd,
+WB_LONG_LIC,Low income,
+WB_LONG_LMIC,Lower middle income,
+WB_LONG_NA,WB_LONG_NA,
+WB_LONG_UMIC,Upper middle income,
+WB_SHORT_HIC,High income,
+WB_SHORT_LIC,Low income,
+WB_SHORT_MIC,Middle income,
+WB_SHORT_NA,WB_SHORT_NA,
+WLF,Wallis and Futuna,WPRO
+WPR,Western Pacific Region,
+WSM,Samoa,WPRO
+XKX,Kosovo (in accordance with UN Security Council resolution 1244 (1999)),EURO
+YEM,Yemen,EMRO
+ZAF,South Africa,AFRO
+ZMB,Zambia,AFRO
+ZWE,Zimbabwe,AFRO
